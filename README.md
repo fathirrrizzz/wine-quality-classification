@@ -124,18 +124,8 @@ wine-quality-classification/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── notebooks/
-│ └── Klasifikasi_Kualitas_Anggur.ipynb
-│
-├── outputs/
-├── models/
-└── docs/
-└── UTS_DatMin.txt
+├── Klasifikasi_Kualitas_Anggur.ipynb
+└── hasilprediksi_025.csv
 ```
 
 ## Instalasi
